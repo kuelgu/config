@@ -1,0 +1,10 @@
+[user]
+	name = tanu
+	email = tanusuke@gmail.com
+
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+    interactive = auto
+
